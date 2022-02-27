@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some reflections upon Francis Bugg's book, entituled, The pilgrims progress, &amp;c. By Edmund Elys.</title>
+            <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84411</idno>
+            <idno type="STC">Wing E695</idno>
+            <idno type="STC">ESTC R171936</idno>
+            <idno type="EEBO-CITATION">45789285</idno>
+            <idno type="OCLC">ocm 45789285</idno>
+            <idno type="VID">172596</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172596)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2640:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some reflections upon Francis Bugg's book, entituled, The pilgrims progress, &amp;c. By Edmund Elys.</title>
+                  <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bugg, Francis, 1640-1724? --  Pilgrim's progress, from Quakerism to Christianity.</term>
+               <term>Pilgrim's progress, from Quakerism to Christianity.</term>
+               <term>Society of Friends --  England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172596:1" rendition="simple:additions"/>
+            <head>Some Reflections upon <hi>Francis Bugg's</hi> Book, ENTITULED, <hi>The <hi>Pilgrims</hi> Progreſs, <hi>&amp;c.</hi>
+               </hi>
+            </head>
+            <byline>By <hi>EDMUND ELYS.</hi>
+            </byline>
+            <p>ALL Pious and Learned Men of my Acquintance, cannot but know that I am as ready to Vindicate the Truth I find among any other ſort of Men, as among the People called <hi>Quakers:</hi> And I wiſh <hi>Francis Bugg</hi> would be as ready to Deteſt the Wicked Errors of other Diſſenters from the <hi>Church of England,</hi> as of any Perſon of that Denomination. I do not believe that any one of the <hi>Quakers,</hi> now living, do <hi>Adhere</hi> to ſo wicked a Con<g ref="char:EOLhyphen"/>ceit, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as that which <hi>GEORGE TROSSE</hi> of <hi>Exeter</hi> has Publiſh'd in his Book Entituled, <q rend="margQuotes">'The Lord's Day Vindicated, <hi>viz.</hi> that our Bleſſed LORD was not actually <hi>Jeſus (i. e.</hi> a <hi>Saviour</hi>) before He had actually Suffer'd:</q> which is as Falſe as it is True, that <hi>He was the True Light, which Enlightneth every Man that cometh into the World:</hi> which <hi>Text</hi> the <hi>Quakers</hi> Interpret according to the Inter<g ref="char:EOLhyphen"/>pretation of that moſt Learned, and Pious Man, <hi>John Chryſoſtom,</hi> and other Learned Writers of the <hi>Primitive Church.</hi> This Princi<g ref="char:EOLhyphen"/>ple, that it is every Mans Duty to follow the <hi>True Light,</hi> manifeſt<g ref="char:EOLhyphen"/>ing himſelf in our <hi>Hearts</hi> and <hi>Minds,</hi> as our Chief and Principal TEACHER, does moſt certainly lead <hi>every Quaker,</hi> that is <hi>ſincere</hi> in this Profeſſion, nearer and nearer to a clear and explicit Know<g ref="char:EOLhyphen"/>ledge of <hi>All Truth;</hi> I cannot but have an high Value for theſe Words of a <hi>Quaker,</hi> being to me ſo clearly Expreſſive of ſuch Truth, which is of the greateſt Importance to the Souls of Men. <q rend="margQuotes">'The great reaſon of our ſo much Aſſerting Chriſts Inward Appear<g ref="char:EOLhyphen"/>ance, and Spiritual Manifeſtation, as a Mediator, Sanctifier, Juſtifier, and Saviour within, has been (as to aſſert the Truth
+<pb facs="tcp:172596:2"/>
+                  <pb n="1" facs="tcp:172596:2"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:172596:3"/> ſo) to counterpoiſe (if I may ſo ſpeak) the contrary Doctrine, and Aſſertion of thoſe, who deny him to be, with reſpect to theſe Offices, <hi>at all within, and ſhut Him wholly out;</hi> making the Work of Mediation, Sanctification, Juſtification and Salvation, to be <hi>only, and altogether outward,</hi> whereas we acknowledge <hi>to the ut<g ref="char:EOLhyphen"/>moſt,</hi> whatever Chriſt hath done, or doth without us, in order to our Salvation; yet cannot exclude the Inward Work.</q> To which I ſhall add theſe ſound Words of <hi>W. P.</hi> in his KEY, <q rend="margQuotes">'Though none are <hi>Juſtified</hi> that are not in meaſure <hi>Sanctified,</hi> yet all Man does, is <hi>Duty,</hi> and blots not out old Scores; that is <hi>Grace</hi> and <hi>Fa<g ref="char:EOLhyphen"/>vour</hi> purely, upon Repentance, through Chriſt the Sacrifice and Mediator: So that Men are not Juſtified <hi>becauſe</hi> they are Sancti<g ref="char:EOLhyphen"/>fied, but <hi>For His ſake</hi> that Sanctifies them, and works all their Works in them, and for them; to wit, Chriſt Jeſus, who is made unto them, as he was to the Saints of Old, <hi>Wiſdom, Righteouſneſs, Sanctification, and Redemption; that he that glorieth, let him glory in the Lord,</hi> 1 Cor. 1. 30, 31.</q>
+            </p>
+            <p>
+               <hi>F. B. Chap.</hi> 2. has theſe Words: <q rend="margQuotes">'I went to their Meetings in the Afternoon, and gave great heed to what was Spoken, whoſe chief Subject was the <hi>Light within,</hi> and that <hi>Light</hi> to be <hi>Chriſt</hi>—I and others were catch't by theſe and the like Fallacious Argu<g ref="char:EOLhyphen"/>ments, not being well grounded in the Principles of the <hi>Chriſtian Religion,</hi> nor underſtanding the Wiles of <hi>Satan.</hi>
+               </q>
+            </p>
+            <p>This certainly is one of the ſubtileſt Wiles, one of the ſtrongeſt Snares of the <hi>Devil;</hi> a Conceit that CHRIST is not the LIGHT within every Man: For without a <hi>Virtual</hi> Belief (where there is no <hi>Formal</hi> or <hi>Explicit</hi> Belief) that CHRIST is the Fountain of Light to our Souls, 'tis impoſſible for any Man to <hi>Do any thing</hi> but what may juſtly be term'd <hi>a Work of Darkneſs.</hi>
+            </p>
+            <p>
+               <hi>Chap.</hi> 3. <q rend="margQuotes">'The <hi>Ten Commandments</hi> are not the <hi>Quakers</hi> Rule: No, no: not unleſs they be convinced by their <hi>Light within,</hi> of the Reaſonableneſs of their Obedience.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> They are not any Mans Rule; that is, no Man can uſe them, as a Rule, 'till he is convinced by the <hi>Light within,</hi> of the Reaſonableneſs of his Obedience: But this Conviction is certa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly wrought by the <hi>Light within,</hi> when ever any Man does <hi>not Rebel</hi> againſt it.</p>
+            <pb n="3" facs="tcp:172596:3"/>
+            <p>
+               <hi>Chap.</hi> 5. <q rend="margQuotes">'The <hi>Journal,</hi> and our Friends Books t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ach both by Precept and Example, that the Light in every Man is the Higher Power, to whom All muſt ſubmit and obey.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Certainly they ought ſo to Teach, ſince the <hi>Perſon</hi> of Jeſus Chriſt, or Jeſus Chriſt Himſelf is <hi>The Light in every Man.</hi> By cal<g ref="char:EOLhyphen"/>ling Him the <hi>Higher Power,</hi> they ſhew that nothing muſt be DONE, but in Obedience to Him, being <hi>King of Kings, and Lord of Lords.</hi> Therefore I Affirm that theſe Words of <hi>F. B.</hi> are very Fooliſh and Abſurd. <q rend="margQuotes">'Let us then begin to remember how Zealous Kings and Parliaments have been, ever ſince the Reformation, againſt ſuch as adher'd to a Power Superiour to the King, Lords and Commons, which our <hi>Proteſtant Divines</hi> have held to be the Higher Powers, and to which we are commanded by the Apoſtles to ſubmit our ſelves. Now any People that adhere to a Forreign Power to be Supream in <hi>England,</hi> beſides, and above that of Kings, Lords and Commons (who under God are the Higher Powers) are to be ſuſpected to undermine the Government, whether they mean the <hi>POPE</hi> of <hi>ROME,</hi> or their <hi>Q<g ref="char:V">Ʋ</g>AKER LIGHT</hi> in their <hi>BODY</hi> Aſſembled in <hi>CO<g ref="char:V">Ʋ</g>NCIL.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Moſt certainly the <hi>Quakers</hi> mean no other Light, by the Light, they ſay, they are to <hi>follow,</hi> or <hi>take heed unto,</hi> when they are Aſſembled in Council, than <hi>The True Light, The Light of the World:</hi> And certainly 'tis plain <hi>Blaſphemy</hi> to call Him a <hi>Forreign Power,</hi> or to compare Him with the <hi>Pope of Rome.</hi>
+            </p>
+            <p>Chap. 19. <q rend="margQuotes">'<hi>All true as Goſpel.</hi>
+               </q> This is a PROFANE Expreſſi<g ref="char:EOLhyphen"/>on. <hi>F. B. p.</hi> 110. in a Sermon he <hi>makes</hi> in the Perſon of <hi>George Whitehead,</hi> has theſe Words: <q rend="margQuotes">'To be plain with you, according to our Ancient Teſtimony, we own no other Trinity, nor God, than is within us; for the Light is God, the Light is the Son of Man, the Light is the Holy Ghoſt.</q>
+            </p>
+            <p>
+               <hi>Anſw.</hi> All this is true, that there is no other <hi>Trinity, &amp;c.</hi> If it be true, that GOD IS LIGHT, and the WORD IS GOD, and that the WORD was <hi>made</hi> FLESH, and that the Father, the Son, and the HOLY GHOST are the One True and Eternal GOD, the One True and Eternal LIGHT. What Cenſure <hi>Francis Bugg</hi> deſerves for his groſs and horrid Ignorance in ſcorning this Teſtimony of the <hi>Quakers</hi> I leave to others to Determine.</p>
+            <pb n="4" facs="tcp:172596:4"/>
+            <p>
+               <hi>P.</hi> 111. After <hi>F. B.</hi> had receited the form of ſound Words, wherein the <hi>Quakers</hi> had made their Confeſſion of Faith to the Parliament, he makes this <hi>Malicious</hi> Reflexion, <hi>Perſonating G. W.</hi> 
+               <q rend="margQuotes">'Now my Friends, tho' this Confeſſion be as contrary to our Ancient Teſhimony, as Light is to Dark<g ref="char:EOLhyphen"/>neſs, as by our Books quoted you may ſee, yet we kept our meaning to our ſelves.</q> 
+               <hi>Anſw.</hi> By the Obſervations I have made upon the <hi>Life</hi> and <hi>Profeſſion</hi> of the People called <hi>Quakers</hi> above Fourty Years, I am induc'd to believe that this their Confeſſion of Faith contains nothing elſe, but what has ever been the SENCE of their <hi>Community.</hi> And therefore I ſhall again declare (as I have lately done in a Paper Entituled <q rend="margQuotes">'Reflections on a Paſ<g ref="char:EOLhyphen"/>ſage concerning the <hi>Light within,</hi> in a Book Entituled <hi>Primitive Hereſie,</hi>
+               </q> 
+               <hi>&amp;c.</hi>) <q rend="margQuotes">'That to me it is moſt Evident and Unqueſtionable, that theſe Peo<g ref="char:EOLhyphen"/>ple called <hi>Quakers,</hi> deſerve more Favour than any other ſort of DISSEN<g ref="char:EOLhyphen"/>TERS from all Perſons throughout the World, who make their Solemn VOCAL Confeſſion of the Chriſtian Faith in that form of Words, which we call the NICENE CREED; what they mean by the <hi>Light within</hi> is nothing elſe, but what is implied in thoſe moſt important Words, <hi>LIGHT OF LIGHT:</hi> That is to ſay, the True and Eternal <hi>GOD,</hi> the <hi>SON</hi> of the True and Eternal <hi>GOD.</hi>
+               </q>
+            </p>
+            <p>Though I ſhould have no cauſe to be offended with any Man, that ſhould ſay of Me, <hi>I am a Man of Strife, and a Man of Contention to the whole Earth;</hi> yet GOD is my Witneſs, <hi>I</hi> am in perfect Charity with all Men, even with thoſe that have done me the greateſt <hi>Injuries.</hi> The Peculiar Af<g ref="char:EOLhyphen"/>fection <hi>I</hi> have for many of the People called <hi>Quakers.</hi> ariſeth from a Be<g ref="char:EOLhyphen"/>lief that they concurr with mein a Sincere and Effectual Approbation of theſe excellent Words of a Perſon of that Denomination, in a Book of his, Entituled <hi>Some Fruits of Solitude.</hi>
+            </p>
+            <p>
+               <hi>Let us then try what</hi> Love <hi>will do: For if Men did</hi> once ſee <hi>we love them, we ſhould ſoon find they would not harm us.</hi>
+            </p>
+            <p>
+               <hi>Did we believe a final Reckoning and Judgment; or did we think enough of what we do</hi> believe, <hi>we would allow more Love in Religion than we do; ſince Religion it ſelf is nothing elſe but</hi> Love to God and Man.</p>
+            <p>Love <hi>is above all; and when it prevails in us all, we ſhall all be</hi> Lovely, <hi>and in</hi> Love <hi>with GOD, and with</hi> one another.</p>
+            <closer>ΕΡΧΟΥ ΚΥΡΙΕ ΙΚΣΟΥ.</closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
